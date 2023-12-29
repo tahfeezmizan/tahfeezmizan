@@ -60,6 +60,8 @@ Currently, **I'm open to work and employment opportunities nearby Dhaka or Remo
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahfeezmizan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahfeezmizan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahfeezmizan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tahfeezmizan&show_icons=true)
