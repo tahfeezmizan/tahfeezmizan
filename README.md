@@ -19,18 +19,15 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<!-- ![yeasin's cover](kawser.png)  -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Dev%20Yeasin&height=150&section=header" alt="Yeasin..." />
  
 
-# Hi, I'm **_Md Kawsar Islam Yeasin_**
+# Hi, I'm **_Tahfeez Mizan_**
 
-#### I’m a front-end web developer From Dhaka, Bangladesh, also familiar with Back End.  Loves to Talk about Technology, Software, Coding, And Ideas ✌️
+#### I’m a front-end web developer From Bhola, Bangladesh.  Loves to Talk about Technology, Software, Coding, And Ideas ✌️
 
 Currently, **I'm open to work and employment opportunities nearby Dhaka or Remote**.  [Download My CV](https://drive.google.com/file/d/1pLKyzj2BLvAKvWZCmg7OIhOWcydbO1xT/view?usp=sharing)
 
-- 🌱 I’m currently learning many things Such as Nextjs ,Zustand, JavaScript and TypeScript Advance,
+- 🌱 I’m currently learning many things Such as JavaScript and React Advance,
 - 💬 Ask me about JavaScript,React.js.
 - 🏫 We have a great community called [wd hive](https://github.com/wdhive) , Also have [Messenger](https://l.messenger.com/l.php?u=https%3A%2F%2Fm.me%2Fj%2FAbYRqd07CPovLcls%2F&h=AT3omrCWUUMjE7qdoriL7gyIBQllWEPuFFSKeL1j7ywpWMAZX-x6rCaRmzsT9zjRihEcl2wwa549Z0gS-t3smUB1DQ9H3kjRPA1LWiBqtkedfdFnxaoMeTLho7TMLNiF95L5GA) group where greeks help each other since last two year.Luckily I'm the **Founder** of that group
 
