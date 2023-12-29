@@ -58,14 +58,12 @@ Currently, **I'm open to work and employment opportunities nearby Dhaka or Remo
 
 <!-- [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-2002)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahfeezmizan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahfeezmizan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahfeezmizan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tahfeezmizan&show_icons=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahfeezmizan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 [![](https://visitcount.itsvg.in/api?id=tahfeezmizan&icon=7&color=0)](https://visitcount.itsvg.in)
