@@ -75,5 +75,6 @@ Currently, **I'm open to work and employment opportunities nearby Dhaka or Remo
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeasin-2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+[![](https://visitcount.itsvg.in/api?id=tahfeezmizan&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  /></p>
