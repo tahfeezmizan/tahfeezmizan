@@ -5,7 +5,7 @@
 
 #### 👨‍💻 I’m a creative front-end web developer From Bhola, Bangladesh. Loves to Talk about Technology, Software, Coding, And Ideas ✌️
 
-Currently, **I'm open to work and employment opportunities nearby Dhaka or Remote**.  [Download My CV]([https://drive.google.com/file/d/1pLKyzj2BLvAKvWZCmg7OIhOWcydbO1xT/view?usp=sharing](https://drive.google.com/file/d/1Mi1bl0QxR3wzARMBAvc6mWvs_ZwVdd3g/view?usp=sharing))
+Currently, **I'm open to work and employment opportunities nearby Dhaka or Remote**. [Download My CV](https://drive.google.com/file/d/1pLKyzj2BLvAKvWZCmg7OIhOWcydbO1xT/view?usp=sharing)
 
 - 🌱 I’m currently learning many things Such as JavaScript and React Advance,
 - 💬 Ask me about JavaScript,React.js.
