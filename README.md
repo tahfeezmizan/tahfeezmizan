@@ -48,20 +48,20 @@ Currently, **I'm open to work and employment opportunities nearby Dhaka or Remo
 ### Contact Info
 
 
-<a href="mailto:mdkawsarislam2002@gmail.com">
+<a href="mailto:tahfeezmizan@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://yeasin2002.netlify.app/">
+<a href="https://tahfeezmizan.github.io//">
    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 </a>
- <a href="https://www.linkedin.com/in/yeasin2002/">
+ <a href="https://www.linkedin.com/in//tahfeezmizan/">
        <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
- <a href="https://www.facebook.com/yeasin2002.dev/">
+ <a href="https://www.facebook.com/tahfeezmizan/">
        <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
  
-<a href="https://twitter.com/yeasin2002_dev">
+<a href="https://twitter.com/tahfeezmizan">
        <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
 
