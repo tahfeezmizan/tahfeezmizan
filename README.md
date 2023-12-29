@@ -9,7 +9,7 @@ Currently, **I'm open to work and employment opportunities nearby Dhaka or Remo
 
 - 🌱 I’m currently learning many things Such as JavaScript and React Advance,
 - 💬 Ask me about JavaScript,React.js.
-- 🏫 We have a great community called [wd hive](https://github.com/wdhive) , Also have [Messenger](https://l.messenger.com/l.php?u=https%3A%2F%2Fm.me%2Fj%2FAbYRqd07CPovLcls%2F&h=AT3omrCWUUMjE7qdoriL7gyIBQllWEPuFFSKeL1j7ywpWMAZX-x6rCaRmzsT9zjRihEcl2wwa549Z0gS-t3smUB1DQ9H3kjRPA1LWiBqtkedfdFnxaoMeTLho7TMLNiF95L5GA) group where greeks help each other since last two year.Luckily I'm the **Founder** of that group
+
 
 ### Specialized In
 
@@ -17,6 +17,10 @@ Currently, **I'm open to work and employment opportunities nearby Dhaka or Remo
 
 
 <!-- 
+
+- 🏫 We have a great community called [wd hive](https://github.com/wdhive) , Also have [Messenger](https://l.messenger.com/l.php?u=https%3A%2F%2Fm.me%2Fj%2FAbYRqd07CPovLcls%2F&h=AT3omrCWUUMjE7qdoriL7gyIBQllWEPuFFSKeL1j7ywpWMAZX-x6rCaRmzsT9zjRihEcl2wwa549Z0gS-t3smUB1DQ9H3kjRPA1LWiBqtkedfdFnxaoMeTLho7TMLNiF95L5GA) group where greeks help each other since last two year.Luckily I'm the **Founder** of that group
+
+
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
