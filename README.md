@@ -10,6 +10,7 @@ Currently, **I'm open to work and employment opportunities nearby Dhaka or Remo
 - ❤️ I love the intersection of code and design
 - 🌱 I’m currently learning many things Such as JavaScript and React Advance,
 - ⚡ Fun fact: I love the idea of AI taking over the planet (in a good way ofcourse)
+- 💬 I like to talk about interesting stuff, just drop a message! 😉
 
 ### Specialized In
 
