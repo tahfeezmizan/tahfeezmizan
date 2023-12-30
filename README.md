@@ -7,9 +7,8 @@
 
 Currently, **I'm open to work and employment opportunities nearby Dhaka or Remote**. [Download My CV](https://drive.google.com/file/d/1Mi1bl0QxR3wzARMBAvc6mWvs_ZwVdd3g/view?usp=sharing)
 
-- 🌱 I’m currently learning many things Such as JavaScript and React Advance,
-- 💬 Ask me about JavaScript,React.js.
 - ❤️ I love the intersection of code and design
+- 🌱 I’m currently learning many things Such as JavaScript and React Advance,
 - ⚡ Fun fact: I love the idea of AI taking over the planet (in a good way ofcourse)
 
 ### Specialized In
