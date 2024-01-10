@@ -16,7 +16,7 @@ Currently, **I'm open to work and employment opportunities nearby Dhaka or Remo
 <!-- Skills icon
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![React.js](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap,wordpress,ai,ps&perline=14)](https://mohitya.dev/tools)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap5,wordpress,ai,ps&perline=14)](https://mohitya.dev/tools)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=ts,js,rust,html,css,svelte,tailwind,react,python,nodejs,deno,graphql,mysql,nginx,nextjs,vim,vscode,vercel,netlify,planetscale,prisma,sass,mongodb,apollo,figma,ai,pr,ps&perline=14)](https://mohitya.dev/tools) -->
 
