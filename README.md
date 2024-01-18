@@ -51,13 +51,13 @@ Currently, **I'm open to work and employment opportunities nearby Dhaka or Remo
  <a href="https://www.linkedin.com/in//tahfeezmizan/">
        <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+<a href="https://twitter.com/tahfeezmizan">
+       <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
  <a href="https://www.facebook.com/tahfeezmizan/">
        <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
  
-<a href="https://twitter.com/tahfeezmizan">
-       <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
 
 <br  />
 
