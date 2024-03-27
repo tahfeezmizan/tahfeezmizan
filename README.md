@@ -73,7 +73,7 @@ Currently, **I'm open to work and employment opportunities nearby Dhaka or Remo
 
 <!-- Profile Visitor -->
 
-[![](https://visitcount.itsvg.in/api?id=tahfeezmizan&icon=7&color=0)](https://visitcount.itsvg.in)
+<!---- [![](https://visitcount.itsvg.in/api?id=tahfeezmizan&icon=7&color=0)](https://visitcount.itsvg.in) --->
 
 <!-- Bottom Animation -->
 
