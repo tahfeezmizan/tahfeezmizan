@@ -3,9 +3,9 @@
 
 # Hi, I'm **_Tahfeez Mizan_**
 
-#### 👨‍💻 I’m Tahfeez Mizan a Mern Stack(Frontend) Developer from Bangladesh,  I make the real version of your idea with programming, I'm Highly self-motivated, collaborative, and a quick learner with passion and hands-on experience in web development ✌️
+#### 👨‍💻 I’m a Mern Stack(Frontend) Developer from Bangladesh,  I make the real version of your idea with programming, I'm Highly self-motivated, collaborative, and a quick learner with passion and hands-on experience in web development ✌️
 
-Currently, **I'm open to work and employment opportunities nearby Dhaka or Remote**. [Download My CV](https://drive.google.com/file/d/1Mi1bl0QxR3wzARMBAvc6mWvs_ZwVdd3g/view?usp=sharing)
+Currently, **I'm open to work and employment opportunities near Dhaka or Remote**. [Download My CV](https://drive.google.com/file/d/1Mi1bl0QxR3wzARMBAvc6mWvs_ZwVdd3g/view?usp=sharing)
 
 - ❤️ I love the intersection of code and design
 - 🌱 I’m currently learning many things Such as JavaScript and React Advance,
