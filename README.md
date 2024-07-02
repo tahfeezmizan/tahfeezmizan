@@ -64,17 +64,9 @@ Currently, **I'm open to work and employment opportunities near Dhaka or Remote
 ###  Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahfeezmizan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tahfeezmizan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%; height: auto;"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahfeezmizan&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 100%; height: auto;"/>
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=tahfeezmizan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true) </br>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahfeezmizan&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
