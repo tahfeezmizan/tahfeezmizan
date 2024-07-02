@@ -64,7 +64,7 @@ Currently, **I'm open to work and employment opportunities near Dhaka or Remote
 ###  Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahfeezmizan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<div style="display: flex; align-items: center; width: 100%; height: 500px;">
+<div style="display: flex; flex-direction: column; align-items: center; width: 90%; height: 300px;">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6da41fbf2d56ac1b0a744181b8efae50529eb7c5ad877d99ebe93433200fd814/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7461686665657a6d697a616e267468656d653d6179752d6d697261676526686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" style="flex: 1; height: 100%; display: flex; align-items: center; justify-content: center;">
     <img src="https://camo.githubusercontent.com/6da41fbf2d56ac1b0a744181b8efae50529eb7c5ad877d99ebe93433200fd814/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7461686665657a6d697a616e267468656d653d6179752d6d697261676526686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=tahfeezmizan&amp;theme=ayu-mirage&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" style="width: 100%; height: auto;">
   </a>
