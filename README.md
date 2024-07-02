@@ -66,7 +66,6 @@ Currently, **I'm open to work and employment opportunities near Dhaka or Remote
 
 ![](https://github-readme-stats.vercel.app/api?username=tahfeezmizan&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true) </br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahfeezmizan&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
