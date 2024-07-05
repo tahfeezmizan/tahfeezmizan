@@ -45,7 +45,7 @@ Currently, **I'm open to work and employment opportunities near Dhaka or Remote
 <a href="mailto:tahfeezmizan@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://tahfeezmizan.github.io//">
+<a href="https://mizanportflio.vercel.app/">
    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 </a>
  <a href="https://www.linkedin.com/in//tahfeezmizan/">
