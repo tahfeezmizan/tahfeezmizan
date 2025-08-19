@@ -10,7 +10,7 @@ Currently, **I’m working as a full-stack developer at Sparktech Agency, where 
 - ❤️ I enjoy creating products that blend functionality with aesthetics.
 - 🌱 Currently learning various technologies, JS, TS, React, Next.js, & other advanced.
 - ⚡ Aside from coding, I'm curious about AI, productivity hacks, and future world technologies.
-- 💬 💬 I’m eager to discuss **web development, design trends, and the latest technology** — feel free to [message me](https://wa.me/+8801953167994)!
+- 💬 I’m eager to discuss **web development, design trends, and the latest technology** feel free to [message me](https://wa.me/+8801953167994)!
 
 
 ### Specialized In
