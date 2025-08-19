@@ -3,14 +3,15 @@
 
 # Hi, I'm **_Tahfeez Mizan_**
 
-#### 👨‍💻 I’m a Mern Stack(Frontend) Developer from Bangladesh,  I make the real version of your idea with programming, I'm Highly self-motivated, collaborative, and a quick learner with passion and hands-on experience in web development ✌️
+#### 👨‍💻 I’m a Full Stack Frontend Developer from Bangladesh. I bring your ideas to life with clean, efficient, and scalable code. I'm highly self-motivated, collaborative, and a quick learner with hands-on experience in modern web technologies.
 
-Currently, **I'm open to work and employment opportunities near Dhaka or Remote**. Currently, **I'm open to work and employment opportunities near Dhaka or Remote**. [Download Resume](https://drive.google.com/file/d/1lZZqB6Y52SOA79thI2RahsWhfCfDxuCH/view?usp=sharing)
+Currently, **I’m working as a full-stack developer at Sparktech Agency, where I build and optimize scalable web applications. At the same time, I’m open to new projects and employment opportunities anywhere.**. [Download Resume](https://drive.google.com/file/d/1lZZqB6Y52SOA79thI2RahsWhfCfDxuCH/view?usp=sharing)
 
-- ❤️ I love the intersection of code and design
-- 🌱 I’m currently learning many things Such as JavaScript and React Advance,
-- ⚡ Fun fact: I love the idea of AI taking over the planet (in a good way ofcourse)
-- 💬 I like to talk about interesting stuff, just drop me a message! 😉
+- ❤️ I enjoy creating products that blend functionality with aesthetics.
+- 🌱 Currently learning various technologies, JS, TS, React, Next.js, & other advanced.
+- ⚡ Aside from coding, I'm curious about AI, productivity hacks, and future world technologies.
+- 💬 💬 I’m eager to discuss **web development, design trends, and the latest technology** — feel free to [message me](https://wa.me/+8801953167994)!
+
 
 ### Specialized In
 <!-- Skills icon
