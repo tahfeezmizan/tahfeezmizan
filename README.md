@@ -3,9 +3,9 @@
 
 # Hi, I'm **_Tahfeez Mizan_**
 
-#### 👨‍💻 I’m a Full Stack Frontend Developer from Bangladesh. I bring your ideas to life with clean, efficient, and scalable code. I'm highly self-motivated, collaborative, and a quick learner with hands-on experience in modern web technologies.
+#### 👨‍💻 I’m a Full Stack Developer from Bangladesh. I bring your ideas to life with clean, efficient, and scalable code. I'm highly self-motivated, collaborative, and a quick learner with hands-on experience in modern web technologies.
 
-Currently, **I’m working as a full-stack developer at Sparktech Agency, where I build and optimize scalable web applications. At the same time, I’m open to new projects and employment opportunities anywhere.**. [Download Resume](https://drive.google.com/file/d/1lZZqB6Y52SOA79thI2RahsWhfCfDxuCH/view?usp=sharing)
+Currently, **I'm working at a company and open to work and employment opportunities anywhere remotely**. [Download Resume](https://drive.google.com/file/d/1lZZqB6Y52SOA79thI2RahsWhfCfDxuCH/view?usp=sharing)
 
 - ❤️ I enjoy creating products that blend functionality with aesthetics.
 - 🌱 Currently learning various technologies, JS, TS, React, Next.js, & other advanced.
