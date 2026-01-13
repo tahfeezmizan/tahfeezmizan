@@ -1,4 +1,4 @@
-![Tahfeez](gitartwork.svg)
+![HEllo](gitartwork.svg)
 
 
 # Hi, I'm **_Tahfeez Mizan_**
